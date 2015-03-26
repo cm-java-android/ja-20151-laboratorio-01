@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Ola Mundo, Lab01Activity!</string>
+    <string name="app_name">CM Android Lab01</string>
+
+</resources>
